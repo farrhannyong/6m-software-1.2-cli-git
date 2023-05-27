@@ -30,16 +30,17 @@ h1 {
 }
 
 .bio-container .badge {
-    margin: 0 auto;
-    width: 20px;
-    height: 20px;
     border-radius: 100%;
+    display: inline-block;
+    height: 20px;
+    margin: 0 auto;
     object-fit: cover;
+    width: 20px;       
 }
 
 .bio-container p {
-    margin-block-start: 0px;
-    margin-block-end: 0px;
+    margin-block-start: 5px;
+    margin-block-end: 5px;
 }
 
 .history-container {
