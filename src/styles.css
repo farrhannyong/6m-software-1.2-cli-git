@@ -1,20 +1,2 @@
-p {
-    background-color: lightblue;
-}
-
-li {
-    color:darkblue;
-}
-
-h3 {
-    font-style:italic;
-}
-
-img {
-    opacity: 0.8;
-    border-radius: 50%;
-}
-
-.avatar {
-    width:200px;
-}
+h1{color:orange}
+li{font-style: italic;}
