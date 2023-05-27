@@ -30,8 +30,9 @@ h1 {
 }
 
 .bio-container .badge {
+    align-items: center;
     border-radius: 100%;
-    display: inline-block;
+    display: inline-flex;
     height: 20px;
     margin: 0 auto;
     object-fit: cover;
